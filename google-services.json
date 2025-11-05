@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617655811837",
+    "project_id": "droid-3a2d6",
+    "storage_bucket": "droid-3a2d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617655811837:android:ee2d98c270afe531578894",
+        "android_client_info": {
+          "package_name": "com.example.securedroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdQQAFifL7gCO-VGq6MpNa-0pBThb_5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
